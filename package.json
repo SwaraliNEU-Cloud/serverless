@@ -1,0 +1,25 @@
+{
+  "name": "serverless",
+  "version": "1.0.0",
+  "description": "aws_lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "tes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tes"
+  },
+  "keywords": [
+    "tes"
+  ],
+  "author": "ashutosh",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^7.6.0",
+    "aws-sdk": "^2.1506.0",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "uuid": "^9.0.1"
+  }
+}
